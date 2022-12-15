@@ -1,4 +1,4 @@
-#   C++ Temel Eğitim
+#   C++ Temel Eğitimi
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60" style="max-width: 100%;">
 
 <h1>Hello World! (Merhaba Dünya!)</h1>
