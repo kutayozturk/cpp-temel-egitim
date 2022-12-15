@@ -10,3 +10,7 @@ C++ en popüler programlama dillerinden biridir ve çok çeşitli donanım ve i�
 Bu eğitim sürecinde sizerle birlikte C++ programlama dilinin temel yapısını öğreneceğiz.
 
 Hadi o zaman başalyalım.
+
+
+<a href="https://github.com/kutayozturk/cpp-temel-egitim/blob/main/001%20-%20ilk%20programimiz.cpp">İlk Programımız</a>
+
