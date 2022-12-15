@@ -1,7 +1,7 @@
 #   C++ Temel Eğitim
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60" style="max-width: 100%;">
 
-Hello World! (Merhaba Dünya!)
+<h1>Hello World! (Merhaba Dünya!)</h1>
 
 C++ serbest biçimli ve derlenmiş genel amaçlı bir programlama dilidir. Hem üst düzey hem de alt düzey dil özellikelerini içerdeğinden orta düzey bir dil olarak kabul edilir. Zorunlu nesne yönelimli ve genel programlama özelliklerini sağlar.
 
@@ -9,8 +9,9 @@ C++ en popüler programlama dillerinden biridir ve çok çeşitli donanım ve i�
 
 Bu eğitim sürecinde sizerle birlikte C++ programlama dilinin temel yapısını öğreneceğiz.
 
-Hadi o zaman başalyalım.
+<h2>Temel Bilgilerle Başlayalım</h2>
 
-
-<a href="https://github.com/kutayozturk/cpp-temel-egitim/blob/main/001%20-%20ilk%20programimiz.cpp">İlk Programımız</a>
-
+<ul>
+      <li><a href="https://github.com/kutayozturk/cpp-temel-egitim/blob/main/001%20-%20ilk%20programimiz.cpp">İlk Programımız</a></li>
+      
+</ul>
