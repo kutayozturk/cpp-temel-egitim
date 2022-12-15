@@ -26,7 +26,6 @@ cout: Consol Output anlamına gelmektedir.
 
 Örnek Program:
 */
-
 	#include <iostream>
 	using namespace std;
 
