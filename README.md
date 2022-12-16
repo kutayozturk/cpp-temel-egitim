@@ -15,6 +15,8 @@ Bu eğitim sürecinde sizerle birlikte C++ programlama dilinin temel yapısını
 <br>
 <b>Compiler (Derleyici):</b> Yazdığımız kodları çalıştırılabilir bir hale getiren yazılımdır. </p>
 
+<img src="https://www.codeblocks.org/docs/cb_splash.png">
+
 IDE olarak C++ dilinde kullanmanızı önerdiğim programımızı Code:Bloks isimli compiler programımızdır.
 Code:bBloks'u resmi sayfasında indirecekseniz minGW versiyonunu indirdiğinizden emin olunuz.
 
