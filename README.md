@@ -11,8 +11,9 @@ Verimli, performans odaklı bir programlama dili olarak, sistem yazılımlarınd
 Bu eğitim sürecinde sizerle birlikte C++ programlama dilinin temel yapısını öğreneceğiz.
 
 <h2>IDE ve Compiler Nedir?</h2>
-<b>IDE (Integrated Development Environment):</b> Entegre geliştirme ortamıdır, kısaca yazılım geliştirme sürecinde ihtiyaç duyduğumuz birçok aracı bize birarada sunan yazılımlardır.
-<b>Compiler (Derleyici):</b> Yazdığımız kodları çalıştırılabilir bir hale getiren yazılımdır.
+<p> <b>IDE (Integrated Development Environment):</b> Entegre geliştirme ortamıdır, kısaca yazılım geliştirme sürecinde ihtiyaç duyduğumuz birçok aracı bize birarada sunan yazılımlardır. 
+<br>
+<b>Compiler (Derleyici):</b> Yazdığımız kodları çalıştırılabilir bir hale getiren yazılımdır. </p>
 
 IDE olarak C++ dilinde kullanmanızı önerdiğim programımızı Code:Bloks isimli compiler programımızdır.
 Code:bBloks'u resmi sayfasında indirecekseniz minGW versiyonunu indirdiğinizden emin olunuz.
@@ -22,6 +23,5 @@ Code:Bloks resmi sayfasından indirmek için <a href="http://www.codeblocks.org/
 <h2>Temel Bilgilerle Başlayalım</h2>
 
 <ul>
-      <li><a href="https://github.com/kutayozturk/cpp-temel-egitim/blob/main/001%20-%20ilk%20programimiz.cpp">İlk Programımız</a></li>
-      
+      <li><a href="https://github.com/kutayozturk/cpp-temel-egitim/">C++ Temel Eğitimi</a></li>    
 </ul>
